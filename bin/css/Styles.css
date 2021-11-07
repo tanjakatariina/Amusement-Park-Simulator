@@ -1,0 +1,37 @@
+.label, .text {
+	-fx-font-size: 14.0px;
+	-fx-font-family: "Verdana";
+    -fx-font-weight: normal;
+}
+
+#infoTeksti {
+	-fx-font-size: 14.0px;
+	-fx-font-family: "Verdana";
+    -fx-font-weight: normal;
+}
+
+#otsikot {
+	-fx-font-size: 20.0px;
+	-fx-font-family: "Verdana";
+    -fx-font-weight: bold;
+}
+
+#alaOtsikot {
+	-fx-font-size: 15.0px;
+	-fx-font-family: "Verdana";
+    -fx-font-weight: bold;
+}
+
+#simulointiValmisLabel {
+	-fx-font-weight: bold;
+	-fx-text-fill: red;
+}
+
+.button {
+	-fx-text-fill: #311D76;
+	-fx-background-color: #FFE7B2;
+}
+
+.button:hover{
+	-fx-background-radius: 10;
+}
