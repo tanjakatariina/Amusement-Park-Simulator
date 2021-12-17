@@ -9,6 +9,6 @@ The aim of the project was to make a simulator of a small amusement park. The si
 ![Screenshot of simulator's results](/screenshots/results.png)
 *Screenshot of simulator's results.*
 
-Classes in the framework folder were provided by the course professor, but we made minor changes to them.
+Classes in the simu -> framework were provided by the course professor, but we made some minor changes to them.
 
 The project was built using MVC architecture. The user interface was done with JavaFX and styling with CSS. The simulator is using SQL relational database and ORM was handled with Hibernate. JUnit5 was used for the unit testing.
